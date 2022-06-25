@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / ІА-11</code>
+<code>🎓 Student: KPI / ІА-91</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
