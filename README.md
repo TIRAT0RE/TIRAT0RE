@@ -6,5 +6,3 @@
 <code>🧑‍💻 Languages: JavaScript, C, HTML</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@tiratore_nevens](https://telegram.me/tiratore_nevens)</code>
-<code>📫 [kesilstas@gmail.com](mailto:kesilstas@gmail.com)</code>
